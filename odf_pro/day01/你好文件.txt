@@ -1,0 +1,65 @@
+1.用空文件 写一个QT图形界面
+
+2.在界面上话一个按钮  指定父对象，和不指定父对象的区别
+
+3.两个界面相互切换
+
+
+
+4.函数指针：（解决信号重载的问题）
+void fun()
+{
+
+}
+void (*p)() = fun;
+
+5.Lambda 表达式 和信号的使用方法
+
+6.坐标系统演示
+
+7.内存回收（qt自带内存回收 的验证）  通过自定义一个按钮控件
+
+8.工具栏和菜单栏 核心控件  浮动窗口  QT帮助文档所在位置
+
+9.模态和非模态
+
+10.MessagesBox对话框
+
+11.打印文件路径  并且指定格式
+
+12.Layouts :					主要用来布局
+   Spacers :					间距弹簧
+   Buttons :					按钮类
+   Item Views(Model-Based) : 	数据库  （数据和显示是分离的）
+   Item Widgets(Item-Based) :	树状结构
+   Containers :					容器
+   Input Widgets :			    输入输出控件
+   Display Widgets :		    显示类
+   
+   
+13.自定义控件
+
+14.样式表
+selector { attribute: value }  方箱模型
+
+15.为状态列表
+为状态         		描述
+:checked    		button 部件被选中
+:disabled 			部件被禁用
+:enabled 			部件被启用
+:focus				部件获得焦点
+:hover 				鼠标位于部件上
+:indeterminate		checkbox或radiobutton被部分选中
+:off 				部件可以切换，且处于off状态
+:on					部件可以切换，且处于on状态
+:pressed  			部件被鼠标按下
+:unchecked			button部件未被选中
+
+
+16.事件  定时器的使用  自定义按键事件的接收和忽略  事件的分发 事件过滤  事件过滤器（需要创建和安装）
+
+17.猜数字游戏
+
+18.绘图主要有三个类（QPainter ----> QPaintEngine -----> QPaintDevice)
+
+

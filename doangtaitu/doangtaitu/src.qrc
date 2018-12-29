@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/551089.png</file>
+        <file>icon/557487.png</file>
+        <file>icon/1078435.png</file>
+        <file>icon/1116334.png</file>
+        <file>icon/1125709.png</file>
+        <file>icon/1150954.png</file>
+        <file>icon/1169363.png</file>
+        <file>icon/1169389.png</file>
+        <file>icon/1172115.png</file>
+        <file>icon/1174033.png</file>
+        <file>icon/1183337.png</file>
+    </qresource>
+</RCC>
